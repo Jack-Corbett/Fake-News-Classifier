@@ -1,0 +1,101 @@
+tweetId	tweetText	userId	imageId(s)	username	timestamp	label
+263046056240115712	¿Se acuerdan de la película: “El día después de mañana”? Me recuerda a lo que está pasando con el huracán #Sandy. http://t.co/JQQeRPwN	21226711	sandyA_fake_46	iAnnieM	Mon Oct 29 22:34:01 +0000 2012	fake
+262995061304852481	@milenagimon: Miren a Sandy en NY!  Tremenda imagen del huracán. Parece el "Día de la Independencia 2" http://t.co/41jUweux REAL! RT.	192378571	sandyA_fake_09	CarlosVerareal	Mon Oct 29 19:11:23 +0000 2012	fake
+262979898002534400	Buena la foto del Huracán Sandy, me recuerda a la película Día de la Independencia #ID4 #Sandy  http://t.co/PTdAXABZ	132303095	sandyA_fake_09	LucasPalape	Mon Oct 29 18:11:08 +0000 2012	fake
+262996108400271360	Scary shit #hurricane #NY http://t.co/e4JLBUfH	241995902	sandyA_fake_29	Haaaaarryyy	Mon Oct 29 19:15:33 +0000 2012	fake
+263018881839411200	My fave place in the world #nyc #hurricane #sandy #statueofliberty 🗽 http://t.co/Ex61doZk	250315890	sandyA_fake_15	princess__natt	Mon Oct 29 20:46:02 +0000 2012	fake
+263364439582060545	42nd #time #square #NYC #subway #hurricane http://t.co/daX5YY7X	163674788	sandyA_fake_23	classycg	Tue Oct 30 19:39:10 +0000 2012	fake
+262927032705490944	Just in time for #halloween a photo of #hurricane #sandy #frankenstorm http://t.co/xquKB4VN	246153081	sandyA_fake_14	j_unit87	Mon Oct 29 14:41:04 +0000 2012	fake
+263321078884077568	Crazy pic of #Hurricane #Sandy prayers go out to family and friends on the East Coast http://t.co/c4sceiMt	199565482	sandyA_fake_29	MrBlakMagik	Tue Oct 30 16:46:52 +0000 2012	fake
+263111677485142017	#sandy #newyork #hurricane #statueofliberty #USA http://t.co/iQfEbO1E	78475739	sandyA_fake_15	safi37	Tue Oct 30 02:54:46 +0000 2012	fake
+262977091983785985	#nyc #hurricane http://t.co/Gv3QxZlq	869777653	sandyA_fake_29	kingmichael03	Mon Oct 29 17:59:59 +0000 2012	fake
+262989009930833920	robertosalibaba  god be with u brother #sandy #hurricane #newyork http://t.co/GXheTqlO	359592461	sandyA_fake_08	Michael_Saliba	Mon Oct 29 18:47:20 +0000 2012	fake
+263129115207536640	#Crazy #Hurricane #Sandy http://t.co/0zrMsgvs	31305940	sandyA_fake_29	SLAZARO31	Tue Oct 30 04:04:04 +0000 2012	fake
+263091320871063552	#shark #newjersey #swim #sandy #hurricane  http://t.co/2i4WuGvP	51599800	sandyA_fake_11	anaceciggt	Tue Oct 30 01:33:53 +0000 2012	fake
+262990978611286016	Good luck #ny #newyork #usa #hurricane #sandy http://t.co/0y435Anw	125724906	sandyA_fake_29	gsevigny	Mon Oct 29 18:55:10 +0000 2012	fake
+263070862977167360	Wow.... Fishing anyone? #hurricane #sandy http://t.co/LS0Kx0zm	332477807	sandyA_fake_11	shawtyvegasbomb	Tue Oct 30 00:12:36 +0000 2012	fake
+263270378221228033	Well #howdy there #hurricane #sandy . Just wanted to let you know that you took my power, internet, &amp;&amp; happi http://t.co/qKxLQEmT	714666746	sandyA_fake_29	x0_nashalee_0x	Tue Oct 30 13:25:24 +0000 2012	fake
+263229641999925249	Just known this bcs of #jason #chen updated the pic! Everyone be safe! #newyork #sandy #hurricane #nature #e http://t.co/c6VTaBkT	31382827	sandyA_fake_29	aran08	Tue Oct 30 10:43:31 +0000 2012	fake
+263184498072645632	My thoughts and prayers go to all of the people going thru #hurricane #sandy #ct #de #ma #md #me #nc #nh #nj http://t.co/kvKzXOg1	164399110	sandyA_fake_48	RaulSanchezBeat	Tue Oct 30 07:44:08 +0000 2012	fake
+263001267926880258	Stay safe my New York family...#nyc #newyork #storm #hurricane #wind http://t.co/iSdoZmLs	332854270	sandyA_fake_29	RSG_the_Large_1	Mon Oct 29 19:36:03 +0000 2012	fake
+263363592508829697	New York #hurricane #Sandy http://t.co/AnrR8u7t	30897781	sandyA_fake_15	tito23	Tue Oct 30 19:35:48 +0000 2012	fake
+263058558160076801	Probably the coolest pic of #hurricanesandy! #hurricane #sandy #weather #storm #statueofliberty http://t.co/RCf5ZKrn	207795673	sandyA_fake_34	EVILiMONKEY	Mon Oct 29 23:23:42 +0000 2012	fake
+263286294522777601	Crazy #sandy #hurricane images. Be glad we live in the #west coast. http://t.co/c2wYXDao	117535013	sandyA_fake_28	Da_Jaguar_Paw	Tue Oct 30 14:28:38 +0000 2012	fake
+263010650517807104	My cousin sent this to me... :: Cleveland voice :: We gon' die!!! ☁⚡☔🌊 #hurricane #hurricanesandy #sandy http://t.co/XtW4exLn	101839785	sandyA_fake_25	Fcking_AWESOME	Mon Oct 29 20:13:20 +0000 2012	fake
+262976546527145984	We forget tomb unknown soldier is guard 24/7365 ! Taken today #hurricane #sandy #frankenstorm http://t.co/mFEfmCMk	19840174	sandyA_fake_49	JEFF_EMT	Mon Oct 29 17:57:49 +0000 2012	fake
+262971979282395136	“@DarcyPhilip #new #york #hurricane #sandy http://t.co/z82Y0Kah” Bruh	604216715	sandyA_fake_29	AznSneakerFreak	Mon Oct 29 17:39:40 +0000 2012	fake
+263259176497737728	New York "attacked" by Sandy.  #NewYork #statueofliberty #hurricane #Sandy #dark #attack #sky #picoftheday # http://t.co/6PSNTCj9	458337011	sandyA_fake_48	DimPhil1	Tue Oct 30 12:40:53 +0000 2012	fake
+263404091718389760	This is sooo cute! #puupy #dog #hurricane #sandy #cute #adorable #flood #trees #golden #retriever #classic ☺ http://t.co/7nXoqVIY	330337969	sandyA_fake_35	jennn619	Tue Oct 30 22:16:43 +0000 2012	fake
+263283812530782208	empty streets #nyc #hurricane #sandy http://t.co/Uro00bM7	173731158	sandyA_fake_17	omguhh	Tue Oct 30 14:18:47 +0000 2012	fake
+263263438988533760	Shark. #Sandy #JerseyIThink #Hurricane #NYC #SomethingIsntRight #Animals #Shark #NaturalDisasterOrNot http://t.co/rylmIz5H	91474790	sandyA_fake_11	ConfusintheGOVT	Tue Oct 30 12:57:49 +0000 2012	fake
+263047501433688064	Craziest picture ever #hurricane http://t.co/KaF8zQPE	267388495	sandyA_fake_09	BLangley401	Mon Oct 29 22:39:46 +0000 2012	fake
+263033265336754176	#hurricane #sandy #WOW #NYC http://t.co/Gs7YMXXC	281601820	sandyA_fake_34	charlieharris04	Mon Oct 29 21:43:12 +0000 2012	fake
+263110586022379520	So New York is getting a little rain... #Hurricane #Sandy http://t.co/frWrVIss	541395610	sandyA_fake_29	crispychris94	Tue Oct 30 02:50:26 +0000 2012	fake
+263110236175466497	The Tomb of the Unknown #Marines never take the #DayOff #Respect #NoDaysOff #Hurricane #Sandy #Superstorm http://t.co/sxsoJER6	140445316	sandyA_fake_03	Jay4real23	Tue Oct 30 02:49:03 +0000 2012	fake
+263235193593290752	Lord have mercy on their souls #Hurricane #Sandy #NewYork #RIP http://t.co/MYJpbl11	609431058	sandyA_fake_29	LiamWilletts90	Tue Oct 30 11:05:35 +0000 2012	fake
+263049636216983552	Look at this amazing pic taken today of #sandy #NYC #NewYorkCity #LadyLiberty #Hurricane #Amazing #Weather http://t.co/H4v7NbnI	92914808	sandyA_fake_29	VeneciaLyght	Mon Oct 29 22:48:15 +0000 2012	fake
+263422787513901056	Mans best friend #love #hurricane #sandy #dog http://t.co/rJPcUYUn	174085679	sandyA_fake_21	CafeBustelo711	Tue Oct 30 23:31:01 +0000 2012	fake
+263060279586336768	#hurricane http://t.co/0ifMPBuq	516294712	sandyA_fake_29	Alysssaa_Dick	Mon Oct 29 23:30:32 +0000 2012	fake
+263183410581893121	Terrifying. #NY #hurricane #sandy #statueofliberty http://t.co/MSduqf2r	44445572	sandyA_fake_09	Cheve_01	Tue Oct 30 07:39:49 +0000 2012	fake
+262974263923994625	#hurricane #sandy lookin like a bag of money http://t.co/lIWWuj6U	554129022	sandyA_fake_29	kickcloudss	Mon Oct 29 17:48:45 +0000 2012	fake
+262983606132162560	Crazy shot of #Hurricane #Sandy http://t.co/EQRFTgbD	176098752	sandyA_fake_08	Nic_Ikin	Mon Oct 29 18:25:52 +0000 2012	fake
+262994195504041985	wow! #hurricane #Sandy over lady liberty  http://t.co/UbNMPbru via @TwitPic	100776351	sandyA_fake_29	hiroshimanaka	Mon Oct 29 19:07:57 +0000 2012	fake
+263066368713318400	UMMMM😳 #shark #hurricane #nj WOAHH http://t.co/ach2BzUW	263410461	sandyA_fake_11	isaigraham	Mon Oct 29 23:54:44 +0000 2012	fake
+262976505917882368	#amazing #photography #nature #hurricane #sandy #clouds http://t.co/04kgQRRZ	273750348	sandyA_fake_28	Gabrielle_annx3	Mon Oct 29 17:57:39 +0000 2012	fake
+263053746639097856	So...that's a shark swimming in someone's front yard in NJ. #Sandy #shark #landshark #hurricane #fishing #be http://t.co/Vy7NOhKp	529930488	sandyA_fake_11	geoff_crowe	Mon Oct 29 23:04:35 +0000 2012	fake
+263079860778459136	uh #hurricane #sandy #wind #blowing #cloudy #water #### # http://t.co/OVPam68k	402783766	sandyA_fake_08	jamiesaunders95	Tue Oct 30 00:48:21 +0000 2012	fake
+263018516083523584	#hurricane #sandy #NY #NewYork http://t.co/EtktgqAt	89027501	sandyA_fake_29	Ahmed_MT	Mon Oct 29 20:44:35 +0000 2012	fake
+263043396162187264	Damnnn dis joint look like those end of the world movies #repost #rp #hurricane #sandy http://t.co/6lzyWDj1	164465975	sandyA_fake_29	Born2bGifted	Mon Oct 29 22:23:27 +0000 2012	fake
+263257996799406080	#hurricane #sandy #NY #newyork #america #usa #sky #tube #instago #instaboy #instahub #i#instagood #instagram http://t.co/MMqpZxE8	382178443	sandyA_fake_29	_Dr__Jekyll_	Tue Oct 30 12:36:12 +0000 2012	fake
+263163316266991618	#NewYork #Crazy #Statue #Liberty #Hurricane #Today #Nature #2012 http://t.co/wi5DuGPH	350468926	sandyA_fake_48	BlakeTheGreat04	Tue Oct 30 06:19:58 +0000 2012	fake
+263158351557439488	NYC Firemen search for people trapped in their cars at 14th street and Avenue C in Manhattan: http://t.co/wYUjjMEF #Sandy @TIME	324720779	sandyA_real_22	achen852	Tue Oct 30 06:00:14 +0000 2012	real
+263257013071540224	RT @SCAR_179NY: The floods are no joke here in Queens! #hurricane #sandy #hurricanesandy #storm #naturaldisaster #flood http://t.co/kKKYGuGJ	166855318	sandyA_real_21	firdauschris	Tue Oct 30 12:32:17 +0000 2012	real
+263098335756431360	Can't authenticate pic, but stunning if unaltered. Flooding of the World Trade redevelopment construction site: http://t.co/sduIrNcH #sandy	34928459	sandyA_real_04	TessaSproule	Tue Oct 30 02:01:46 +0000 2012	real
+263373488583221249	Crazy pic. Cabs underwater in NYC. #Sandy http://t.co/TBLlEuTT	15845475	sandyA_real_17	josh_jeffrey	Tue Oct 30 20:15:07 +0000 2012	real
+263101852193812481	RT @aStrngMargaRITA: The current situation in NY #Sandy #Repost http://t.co/BU0dji5O	93561962	sandyA_real_03	SoDaygoInLA	Tue Oct 30 02:15:44 +0000 2012	real
+263438910183596032	Ain't nobody gettin round in NYC now!  #Sandy\n\nhttp://t.co/E3q1f6sX	215771392	sandyA_real_18	Puffy_Ghost	Wed Oct 31 00:35:05 +0000 2012	real
+263100543038263296	#sandy causing havoc in #NYC no bueno!!! http://t.co/Psy7g9gy	16355829	sandyA_real_14	ELCIRCUITOTV	Tue Oct 30 02:10:32 +0000 2012	real
+263076640630927361	89th and 1st, Upper East of Manhattan, NYC. Taken by my sis from her apt #sandy #hurricane http://t.co/keTQtnuy	21810874	sandyA_real_03	whoistempest	Tue Oct 30 00:35:33 +0000 2012	real
+263750918875537408	Wow! A parking lot full of taxis in NYC, flooded #Sandy --&gt; @nationalpost's photo http://t.co/I2Cujn4R	18745607	sandyA_real_18	stilez	Wed Oct 31 21:14:53 +0000 2012	real
+263689046767841281	“@JasmineSolano: Hoboken, NJ. photo - Michael Bochieri // #Sandy http://t.co/4cNJkqup” is this for real ? Damn	26133470	sandyA_real_18	UTKtheINC	Wed Oct 31 17:09:02 +0000 2012	real
+263368339705962496	Taxis in NJ! #Sandy  http://t.co/AqQGzMip	28655190	sandyA_real_18	LuisMichael_	Tue Oct 30 19:54:39 +0000 2012	real
+263394658011475968	#Sandy Odeed! Jersey in the Summer won't be the same until Seaside is repaired... http://t.co/8dR2OHvW	44174504	sandyA_real_27	MarcDoneGrown23	Tue Oct 30 21:39:14 +0000 2012	real
+263088189542129664	It's real in NYC #sandy glad I'm in the chi ;) http://t.co/NLsNDWBg	592878508	sandyA_real_03	bawsydeva	Tue Oct 30 01:21:26 +0000 2012	real
+263114670796337152	This happened in Chelsea!! WTF???? This is truuuue!!! #sandyhurricane #sandy #hurricane #nyc #newyork #manha http://t.co/PwfHfBgj	115724600	sandyA_real_09	KainaQueen	Tue Oct 30 03:06:40 +0000 2012	real
+263376469688979456	NYC cabs parked in a lot. #sandy http://t.co/wn669pLH	33824096	sandyA_real_18	desirobertson	Tue Oct 30 20:26:58 +0000 2012	real
+263105041957797890	A Parking Garage In The Financial District In New York... #Sandy #AnarchyMoneyRules http://t.co/TKkRvg9c	95070588	sandyA_real_36	DigitalPockets	Tue Oct 30 02:28:24 +0000 2012	real
+263287532505153536	There's always a rainbow after the rain ☔🌈⚡ #NYC #Sandy #rainbow http://t.co/yd1w6qWV	85046347	sandyA_real_12	aubanzon	Tue Oct 30 14:33:34 +0000 2012	real
+262998674026680321	Gotta love it when ur TRAMPOLINE ends up in the electrical wires #Sandy http://t.co/546ipXki	518901971	sandyA_real_05	BeamrBenzOrBett	Mon Oct 29 19:25:44 +0000 2012	real
+263427698704142337	Sandy leaves death and destruction in its wake. Amazing images http://t.co/Yj5I0FBP #sandy http://t.co/EAnjxJZ0	27141700	sandyA_real_18	heredownunder	Tue Oct 30 23:50:32 +0000 2012	real
+263147315328598016	When this event passes, I think we will have a whole new set of reasons to be in awe of the FDNY. #sandy http://t.co/Ax1L3cdB	31583855	sandyA_real_22	tim_quigley	Tue Oct 30 05:16:23 +0000 2012	real
+263338752850673664	“@BordenFaith: Seaside is ruined 😿 so sad. And my favorite log flume is gone #sandy http://t.co/2mBdsnMY” this is crazy	71435262	sandyA_real_27	AlexandraMC4706	Tue Oct 30 17:57:05 +0000 2012	real
+263087636384731137	East Manhattan NYC at the moment... Prayers to everyone out in the Atlantic Coast! #Sandy http://t.co/4HN1h17l	28665225	sandyA_real_03	ac_photography	Tue Oct 30 01:19:15 +0000 2012	real
+263227518297989121	Ave C Lower eastside of NY... Keep them in your prayers. #Sandy http://t.co/QihRzvKm	49608501	sandyA_real_20	CeoCed	Tue Oct 30 10:35:05 +0000 2012	real
+263397944777134080	Crazy events on the East Coast. Wish everyone the best out there. http://t.co/xQkAkR82 #sandy #frankenstorm	24964838	sandyA_real_18	sidmcveigh	Tue Oct 30 21:52:18 +0000 2012	real
+263312879091073024	Guess #sandy wanted to make sure the Jersey Shore cast never came back. “@Cyn_Santana: Seaside heights after http://t.co/fZZSX5Ch”	22499305	sandyA_real_27	justtjonnie	Tue Oct 30 16:14:17 +0000 2012	real
+263355730948661248	“@adagamov: Taxi Terminal in Hoboken, NJ http://t.co/NAgbY2zv” #Sandy	26759279	sandyA_real_18	Ogeus	Tue Oct 30 19:04:33 +0000 2012	real
+263358080203513857	Taxi terminal in Hoboken, NJ. (Not my photo.) #Sandy http://t.co/ALGf97M2	7455512	sandyA_real_18	heravarice	Tue Oct 30 19:13:53 +0000 2012	real
+263113178374885376	#sandy got this building in Chelsea looking like a doll house! Whole facade got blown off! http://t.co/aaioPogO	38034393	sandyA_real_09	Mishsomean	Tue Oct 30 03:00:44 +0000 2012	real
+263367531790729216	Yellow taxies in #NY #sandy  @ New York http://t.co/Dx8DElrQ	170357243	sandyA_real_18	andryshka_s	Tue Oct 30 19:51:27 +0000 2012	real
+263073789959618560	Now this pic is not a joke!! This is lower Manhattan.. Yikes!! #sandy is not playing http://t.co/2pR5ulBW	85953390	sandyA_real_03	DonSoDebonair	Tue Oct 30 00:24:13 +0000 2012	real
+263367849135964160	Just passed the dangling crane.  Crazy and scary.  If that falls.. Can't/don't want to imagine. #Sandy #Stor http://t.co/Euk7NbOz	17030154	sandyA_real_34	TheCPeterson	Tue Oct 30 19:52:43 +0000 2012	real
+263296715841474560	http://t.co/w0N4AgZE - A double spectrum after storm in Lower Manhattan:) #sandy gone for good.	81580014	sandyA_real_12	Deepak_Eshwar	Tue Oct 30 15:10:03 +0000 2012	real
+263278124601597953	A double rainbow in NYC 🌈🌈😇Thank God #sandy is leaving http://t.co/ohkXyApR	465346361	sandyA_real_12	DivinaPeters	Tue Oct 30 13:56:11 +0000 2012	real
+263079627914895361	Couldn't really picture what a hurricane in NYC would be like, now I can o_O http://t.co/9xRtNnQJ	296986580	sandyA_real_51	francoischay	Tue Oct 30 00:47:25 +0000 2012	real
+263390855287685120	This gives new meaning to the term "water taxi" http://t.co/H4OipkKi #Sandy #NYC	73751056	sandyA_real_17	karlcarstensen	Tue Oct 30 21:24:08 +0000 2012	real
+263241759247716352	My neighboorhood park is underwater: Brooklyn Bridge Park in Dumbo. The square light is the Carousel. #sandy http://t.co/migGYjWr	27206027	sandyA_real_14	selenacuffe	Tue Oct 30 11:31:40 +0000 2012	real
+263097945266745347	From a friend in NY. #Sandy http://t.co/9bN6MVz3	19169287	sandyA_real_03	scottdools	Tue Oct 30 02:00:12 +0000 2012	real
+263091059666587648	RT @ericisaac: Brooklyn Bridge Park in Dumbo. The square light is the Carousel. #sandy http://t.co/NeMuEPdB	17171206	sandyA_real_14	InMadison	Tue Oct 30 01:32:51 +0000 2012	real
+263284870447505408	After the storm comes a rainbow. Heal soon NY❤ #rainbowovernyc after #sandy http://t.co/WcNs1o1Q	782451410	sandyA_real_12	katy_yap	Tue Oct 30 14:22:59 +0000 2012	real
+262999732182474752	THIS IS CRAZY!!!!! #Sandy http://t.co/Q9kMjmFT	43815627	sandyA_real_05	cheylexis	Mon Oct 29 19:29:57 +0000 2012	real
+263372688729448449	Crazy! A parking lot full if cabs in Hoboken - photo credit unknown #sandy http://t.co/BmDSsUdb	272967427	sandyA_real_18	drlngclementine	Tue Oct 30 20:11:56 +0000 2012	real
+263338192579751936	Via a friend on facebook, this is a flooded taxicab lot in NYC. #hurricanesandy http://t.co/wsEbneJ6	81505840	sandyA_real_17	TheBabyGuyNYC	Tue Oct 30 17:54:52 +0000 2012	real
+263298402429857793	A pic of the East Village in Manhattan from a friend of a friend. #Sandy #nyc http://t.co/eyaNkj8b	14523603	sandyA_real_20	terancethatch	Tue Oct 30 15:16:45 +0000 2012	real
+262971353064411136	This is in Milford, CT &amp; is the reason why u need to secure stuff b4 the storm! #hurricanesandy http://t.co/ZVpi0tF5	40099803	sandyA_real_05	wired965philly	Mon Oct 29 17:37:11 +0000 2012	real
+263119202196520961	#fdny search lower manhattan for people trapped in cars. #sandy #hurricane #superstorm #frankenstorm http://t.co/MWpz3SV7	19840174	sandyA_real_22	JEFF_EMT	Tue Oct 30 03:24:40 +0000 2012	real
+263123111728259072	RT @TIME: Firefighters search for people trapped in cars near 14th St. and Ave. C in Manhattan http://t.co/TAYvabFT (by mcbphotos) #sandy	190697125	sandyA_real_22	NHEastVillage	Tue Oct 30 03:40:13 +0000 2012	real
+263119422565253120	#Sandy is killing it on #34th st in #NYC. So, glad I moved....praying for yallz....  #HashemYishmor http://t.co/KdhO1FgJ	17163109	sandyA_real_06	Diwon	Tue Oct 30 03:25:33 +0000 2012	real
+263691293593571328	Taxis sit in a #flooded lot after #Hurricane #Sandy hit on October 30, 2012 in Hoboken, #New #Jersey. http://t.co/sEVUvZHQ	192547775	sandyA_real_18	PressTV	Wed Oct 31 17:17:58 +0000 2012	real
+263297069941391360	Double rainbow over Manhattan. A reminder that God is good, all the time. #Sandy http://t.co/AHtWtYpn	51894652	sandyA_real_12	4RowdyFans	Tue Oct 30 15:11:27 +0000 2012	real
+263364541000339456	Incredible pic from NYC - iconic cabs under submerged in water http://t.co/ScHdPa3T #sandy	28710980	sandyA_real_18	mutlu82	Tue Oct 30 19:39:34 +0000 2012	real
+263404496472903680	Cabs parked in a lot in #hoboken apres #sandy http://t.co/5rmunJxQ	396333004	sandyA_real_18	mrshoh	Tue Oct 30 22:18:20 +0000 2012	real
